@@ -1,2 +1,2 @@
 # QTSumm
-Data and code for the paper "QTSumm: A New Benchmark for Query-Focused Table Summarization"
+The Data and code are now available at https://github.com/yale-nlp/QTSumm.
